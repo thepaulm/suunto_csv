@@ -20,3 +20,8 @@ Got dive: 3-6-2015 10:24:28
 ```
 
 Each of those files is a csv with columns {time, depth}.
+
+NOTE: if you just pull the binary you may have to make it executable:
+```
+chmod 755 suunto_csv
+```
