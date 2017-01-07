@@ -1,3 +1,7 @@
 #include "../libdivecomputer/include/libdivecomputer/iterator.h"
 #include "../libdivecomputer/include/libdivecomputer/descriptor.h"
 #include "../libdivecomputer/include/libdivecomputer/context.h"
+#include "../libdivecomputer/include/libdivecomputer/device.h"
+#include "../libdivecomputer/include/libdivecomputer/parser.h"
+#include "../libdivecomputer/include/libdivecomputer/datetime.h"
+#include "../libdivecomputer/include/libdivecomputer/units.h"
